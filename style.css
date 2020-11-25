@@ -1,0 +1,16 @@
+h1
+{
+	color: black; 
+	font-size: 40px;
+}
+.body_backgorund {
+background-image: url("bg1.jpeg.jpeg");
+background-position: center;
+background-size: contain;
+}
+
+#myCanvas{
+background-color: aliceblue;
+border-width: 10px;
+border-style: dashed;
+}
